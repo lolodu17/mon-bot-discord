@@ -1,0 +1,14 @@
+{
+  " nom " : " splatbotoont " ,
+  " version " : " 1.0.0 " ,
+  " description " : " " ,
+  " main " : " bot.js " ,
+  " scripts " : {
+    " test " : " echo \" Erreur: aucun test spécifié \ " && exit 1 "
+  },
+  " auteur " : " lolodu17 " ,
+  " licence " : " ISC " ,
+  " dépendances " : {
+    " discord.js " : " ^ 11.2.1 "
+  }
+}
