@@ -4,7 +4,7 @@
   " description " : " " ,
   " main " : " bot.js " ,
   " scripts " : {
-    " test " : " echo \" Erreur: aucun test spécifié \ " && exit 1 "
+
   },
   " auteur " : " lolodu17 " ,
   " licence " : " ISC " ,
